@@ -2,7 +2,7 @@
  A simple maze game built with JS.
 
 ## Link
- [MovieFightApp](https://theyatinjain.github.io/MazeApp)
+ [MovieFightApp](https://theyatinjain.github.io/MazeApp/)
 
 ## About
     * Uses Matter.js to render the maze world.
